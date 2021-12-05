@@ -1,0 +1,9 @@
+testing_software
+GitHub
+JSON
+Postman
+mobile_testing
+terminal_linux
+SQL
+load_testing_in_jmeter
+Python
